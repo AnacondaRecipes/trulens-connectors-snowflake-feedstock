@@ -1,6 +1,2 @@
 upload_channels:
   - sfe1ed40
-
-channels:
-  - https://staging.continuum.io/prefect/fs/trulens-core-feedstock/pr1/301cf62
-  - https://staging.continuum.io/prefect/fs/snowflake-sqlalchemy-feedstock/pr3/ec98221
