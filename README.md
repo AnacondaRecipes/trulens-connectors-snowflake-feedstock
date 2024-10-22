@@ -1,13 +1,13 @@
-About <pkg_name>-feedstock
+About trulens-connectors-snowflake-feedstock
 =======================
 
 Feedstock license: [BSD-3-Clause](LICENSE)
 
-Home: <home_url>
+Home: https://github.com/truera/trulens
 
-Package license: <pkg_license>
+Package license: MIT
 
-Summary: <pkg_summary>
+Summary: Library to systematically track and evaluate LLM based applications.
 
 
 Current release info
@@ -15,19 +15,19 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-<pkg_name>-green.svg)](https://anaconda.org/anaconda/<pkg_name>) | [![Conda Downloads](https://img.shields.io/conda/dn/anaconda/<pkg_name>.svg)](https://anaconda.org/anaconda/<pkg_name>) | [![Conda Version](https://img.shields.io/conda/vn/anaconda/<pkg_name>.svg)](https://anaconda.org/anaconda/<pkg_name>) | [![Conda Platforms](https://img.shields.io/conda/pn/anaconda/<pkg_name>.svg)](https://anaconda.org/anaconda/<pkg_name>) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-trulens-connectors-snowflake-green.svg)](https://anaconda.org/anaconda/trulens-connectors-snowflake) | [![Conda Downloads](https://img.shields.io/conda/dn/anaconda/trulens-connectors-snowflake.svg)](https://anaconda.org/anaconda/trulens-connectors-snowflake) | [![Conda Version](https://img.shields.io/conda/vn/anaconda/trulens-connectors-snowflake.svg)](https://anaconda.org/anaconda/trulens-connectors-snowflake) | [![Conda Platforms](https://img.shields.io/conda/pn/anaconda/trulens-connectors-snowflake.svg)](https://anaconda.org/anaconda/trulens-connectors-snowflake) |
 
-Installing <pkg_name>
+Installing trulens-connectors-snowflake
 ==================
 
-Installing `<pkg_name>` from the main channel can be achieved by:
+Installing `trulens-connectors-snowflake` from the main channel can be achieved by:
 
 ```
-conda install <pkg_name>
+conda install trulens-connectors-snowflake
 ```
 
-It is possible to list all of the versions of `<pkg_name>` available on your platform with `conda`:
+It is possible to list all of the versions of `trulens-connectors-snowflake` available on your platform with `conda`:
 
 ```
-conda search <pkg_name>
+conda search trulens-connectors-snowflake
 ```
